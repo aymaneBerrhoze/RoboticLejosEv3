@@ -1,8 +1,8 @@
-## Table of Contents
-1. [Participants au projet](#participants)
-2. [Informations générales](#general-info)
-3. [Technologies](#technologies)
-4. [Les composants utilisés](#composants)
+## Inhaltsverzeichnis
+1. [Die Teilnehmer des Projekts](#participants)
+2. [Allgemeine Informationen](#general-info)
+3. [Technologien](#technologies)
+4. [Die verwendeten Komponenten](#composants)
 
 <a name="participants"></a>
 ### Die Teilnehmer des Projekts
@@ -21,7 +21,7 @@
 * M. BAICHOU Ayoub.
 
 <a name="general-info"></a>
-### Informations générales
+### Allgemeine Informationen
 ***
 In diesem Projekt wurde ein LEGO EV3-Roboter verwendet und in der Programmiersprache JAVA programmiert.<br>
 Dieses Projekt umfasst Folgendes:
@@ -37,7 +37,7 @@ Dieses Projekt umfasst Folgendes:
 * [la bibliothèque LEJOS EV3](https://sourceforge.net/projects/ev3.lejos.p/files/) Version 0.9.1-beta
 
 <a name="composants"></a>
-### Les composants utilisés
+### Die verwendeten Komponenten
 ***
 In diesem Projekt haben wir verwendet:
 * Ziegelstein EV3 <br> ![image](https://user-images.githubusercontent.com/62512328/111887770-9ecad900-89d7-11eb-8437-83950974a325.png)
